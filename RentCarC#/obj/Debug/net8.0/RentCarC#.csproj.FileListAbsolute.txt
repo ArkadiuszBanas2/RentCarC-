@@ -1,0 +1,14 @@
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\RentCarC#\RentCarC#\bin\Debug\net8.0\RentCarC#.exe
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\RentCarC#\RentCarC#\bin\Debug\net8.0\RentCarC#.deps.json
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\RentCarC#\RentCarC#\bin\Debug\net8.0\RentCarC#.runtimeconfig.json
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\RentCarC#\RentCarC#\bin\Debug\net8.0\RentCarC#.dll
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\RentCarC#\RentCarC#\bin\Debug\net8.0\RentCarC#.pdb
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\RentCarC#\RentCarC#\obj\Debug\net8.0\RentCarC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\RentCarC#\RentCarC#\obj\Debug\net8.0\RentCarC#.AssemblyInfoInputs.cache
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\RentCarC#\RentCarC#\obj\Debug\net8.0\RentCarC#.AssemblyInfo.cs
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\RentCarC#\RentCarC#\obj\Debug\net8.0\RentCarC#.csproj.CoreCompileInputs.cache
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\RentCarC#\RentCarC#\obj\Debug\net8.0\RentCarC#.dll
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\RentCarC#\RentCarC#\obj\Debug\net8.0\refint\RentCarC#.dll
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\RentCarC#\RentCarC#\obj\Debug\net8.0\RentCarC#.pdb
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\RentCarC#\RentCarC#\obj\Debug\net8.0\RentCarC#.genruntimeconfig.cache
+C:\Users\arekb\OneDrive - Akademia WSB\Pulpit\Studia Arek\SEMESTR 2\Podstawy programowania zorientowanego obiektowo\Krzysztof Popławski\RentCarC#\RentCarC#\obj\Debug\net8.0\ref\RentCarC#.dll
